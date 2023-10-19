@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.itemrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 8px;
+}
+
+.btn {
+  color: #ff0b37;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+  border-width: px;
+  border-color: #ff0b37;
+  background-color: white;
+  padding: 3px;
+}

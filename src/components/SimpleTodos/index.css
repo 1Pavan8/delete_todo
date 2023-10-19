@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.main {
+  background-color: #ffc2a0;
+  background-size: cover;
+  padding: 40px;
+}
+
+.subc {
+  background-color: white;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.head {
+  color: #ff8542;
+  text-align: center;
+}
